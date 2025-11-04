@@ -1,1 +1,1 @@
-how du you declare variables in html already?
+how do you declare variables in html already?
